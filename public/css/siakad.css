@@ -1,0 +1,115 @@
+.account-wall{
+	padding: 0px 0px 20px;
+	transition: all 0.5s ease-in-out 0s;
+}
+.site-logo {
+    background: transparent url("../../img/logounej.png") no-repeat scroll center center;
+    display: block;
+    height: 80px;
+    position: relative;
+}
+.main {
+	margin: 0px;
+	padding: 0px;
+    background: #ecf0f1 none repeat scroll 0% 0%;
+    height: 100%;
+    left: 0px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-top: 55px;
+    position: absolute;
+    right: 0px;
+    transition: transform 0.5s ease 0s, padding-top 0.5s ease 0s;
+    z-index: 9;
+}
+.page-header{
+	padding-bottom: 9px;
+	margin: 40px 0px 20px;
+	border-bottom: 1px solid #EEE;
+}
+.fold{
+	position: relative;
+	padding: 1em 3em;
+	margin: 10px auto;
+	background: #FFF none repeat scroll 0% 0%;
+	border-radius: 4px;
+	box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
+	min-height: 250px;
+}
+.siakad-color-background{
+	color-background:#F1F1F1;
+}
+.align-lg-center {
+    text-align: center;
+}
+.account-wall .form-signin .input-group {
+    background-color: #FFF;
+    border-top: 1px solid #F5F5F5;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05);
+    margin-bottom: -1px;
+}
+.account-wall .form-signin {
+    margin: 0px auto;
+    max-width: 330px;
+    padding: 15px;
+}
+.account-wall .form-signin .input-group-addon {
+    background-color: transparent;
+    border: medium none;
+    position: relative;
+}
+.account-wall .form-signin .input-group-addon span {
+    color: #E1E1E1;
+    margin: auto 5px;
+    text-align: center;
+    width: 18px;
+}
+.account-wall .form-signin .form-control {
+    background-color: transparent;
+    border-color: transparent;
+    font-size: 16px;
+    height: auto;
+    padding: 10px 20px;
+    position: relative;
+}
+.account-wall .footer-link {
+    display: block;
+    font-size: 12px;
+    margin-top: 10px;
+    text-align: center;
+}
+span .sp_center {
+    text-align: center;
+}
+
+.main-header {
+    position: relative;
+    max-height: 100px;
+    z-index: 1030;
+}
+
+.main-header .logo {
+    background-color: #367FA9;
+    color: #FFF;
+    border-bottom: 0px solid transparent;
+    transition: width 0.3s ease-in-out 0s;
+    display: block;
+    float: left;
+    height: 50px;
+    font-size: 30px;
+    line-height: 50px;
+    text-align: left;
+    width: 230px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    padding: 0px 15px;
+    font-weight: 300;
+    overflow: hidden;
+}
+
+
+.main-sidebar{
+	background-color: #222D32;
+}
+.main-header .navbar {
+    background-color: #367FA9;
+}

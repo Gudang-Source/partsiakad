@@ -1,0 +1,57 @@
+mahasiswa
+<ul class="nav navbar-nav">
+						<li class="active"><a href="">Home</a></li>
+						<!--status-->
+						<li class="dropdown">
+							<a href="" class="dropdown-toggle active" data-toggle="dropdown">Status
+							<span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="#">Biodata Mahasiswa</a></li>
+								<li><a href="#">Penundaan SPP/UKT</a></li>
+								<li><a href="#">Penurunan SPP/UKT</a></li>
+								<li><a href="#">Pengunduran Diri</a></li>
+								<li><a href="#">Cuti Kuliah</a></li>
+								<li><a href="#">Perpanjangan Masa Studi</a></li>
+								<li><a href="#">Status Kuliah</a></li>
+								<li><a href="#">Pindah Kuliah</a></li>
+								<li><a href="#">Status Pembayaran</a></li>
+							</ul>
+						</li>
+
+						<!--Yudisium & wisuda-->
+						<li class="dropdown">
+							<a href="" class="dropdown-toggle active" data-toggle="dropdown">Yudisium & wisuda
+							<span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="#">Info Beasiswa</a></li>
+								<li><a href="#">Daftar Beasiswa</a></li>
+							</ul>
+						</li>
+
+						<!--Akademik-->
+						<li class="dropdown">
+							<a href="" class="dropdown-toggle active" data-toggle="dropdown">Akademik
+							<span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="#">Dosen Wali</a></li>
+								<li><a href="#">KRS Reguler</a></li>
+								<li><a href="#">KRS SA</a></li>
+								<li><a href="#">Record Pembatalan</a></li>
+								<li><a href="#">Jadwal Kuliah</a></li>
+								<li><a href="#">Perkuliahan</a></li>
+								<li><a href="#">Hasil Studi</a></li>
+								<li><a href="#">Transkrip</a></li>
+								<li><a href="#">Tugas Akhir</a></li>
+							</ul>
+						</li>
+
+						<!--beasiswa-->
+						<li class="dropdown">
+							<a href="" class="dropdown-toggle active" data-toggle="dropdown">Beasiswa
+							<span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="info-bea-mhs.html">Info Beasiswa</a></li>
+								<li><a href="daftar-bea.html">Daftar Beasiswa</a></li>
+							</ul>
+						</li>
+					</ul>
